@@ -3,4 +3,4 @@
 
 作业要求如下：
 
-![image](https://github.com/yingwaner/n-gram-lm/blob/master/assignment.jpg）
+![image](https://github.com/yingwaner/n-gram-lm/blob/master/assignment.jpg)
